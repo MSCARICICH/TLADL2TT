@@ -46,7 +46,7 @@ namespace LABORATORIO_2_ACT_4
                         if (num1 > num3)
                         {
                             Console.WriteLine($"\n\tEl medio es el numero 1 ({num1})", Console.ForegroundColor = ConsoleColor.Yellow);
-                            Console.WriteLine($"\n\tEl menor es el numero 3({num3})", Console.ForegroundColor = ConsoleColor.Red);
+                            Console.WriteLine($"\n\tEl menor es el numero 3 ({num3})", Console.ForegroundColor = ConsoleColor.Red);
                         }
                         else
                         {
